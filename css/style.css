@@ -1,0 +1,94 @@
+
+@media screen and (min-width:772px) {
+    .navbar{
+        display:fixed;
+    }
+}
+.gmh{
+    font-family: fantasy;
+    padding-left: 13px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.navbar li{
+    font-family: cursive;
+    font-weight: 700;
+    text-transform: uppercase;
+
+}
+
+.logo{
+    font-family: cursive;
+    font-weight: 900;
+    letter-spacing: 4px;
+    display: flex;
+    flex-direction: column;
+}
+.logo .logo-img{
+    width: 70px;
+    margin: 0;
+}
+.min-title{
+    text-align: center;
+    text-transform: uppercase;
+    width: 48%;
+    margin: 20px auto;
+    font-weight: 600;
+    color: #00000077;
+}
+.min-sction{
+
+    background-color: #8f9b9b1c;
+    padding: 40px;
+}
+.min-pra{
+    padding: 14px;
+    text-align: center;
+    border-radius: 19px;
+    font-weight: 600;
+    color: #222222e0;
+}
+/* .navbar{
+    position: fixed;
+    z-index: 22;
+    width: 100%;
+} */
+.carousel-caption h5
+{
+    COLOR: rgb(245, 226, 226);
+    text-shadow: 0px 7px 7px #470303;
+    font-size: xx-large;
+    font-family: fantasy;
+    letter-spacing: 2px;
+}
+
+.map{
+    width: 80vw;
+    height: 20vh;
+    margin: auto;
+}
+.map .inmap{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.con {
+    margin-top:100px ;
+}
+.buy{
+    margin: auto;
+}
+.gm{
+    display: inline;
+    width: 100%;
+    height: 40vh;
+}
+.gm img{
+    height: 46vh;
+    width: 55%;
+    border-radius: 50%;
+    margin: 10px auto;
+    display: flex;
+}
